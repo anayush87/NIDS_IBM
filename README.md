@@ -84,39 +84,3 @@
 
 ###### ---
 
-###### 
-
-###### \## 🚀 Model Training \& Deployment
-
-###### 
-
-###### \### ✅ Model Created
-
-###### !\[Model Created](screenshots/created\_model.png)
-
-###### 
-
-###### \### ✅ Model Deployed on IBM Cloud
-
-###### !\[Model Deployed](screenshots/deployed\_model.png)
-
-###### 
-
-###### ---
-
-###### 
-
-###### \## 💡 How to Reproduce
-
-###### 
-
-###### 1\. Clone this repository:
-
-###### &nbsp;  ```bash
-
-###### &nbsp;  git clone https://github.com/<your-username>/network-intrusion-detection.git
-
-###### &nbsp;  cd network-intrusion-detection
-
-###### 
-
